@@ -4,7 +4,6 @@ import Code from "./CodeContainer";
 function Tailwind() {
   return (
     <Row type="vertical">
-      <h1>Simplifying Styling in React with Tailwind CSS</h1>
       <h2>Introducing Tailwind CSS</h2>
       <p>
         Tailwind CSS is a utility-first CSS framework that provides a set of

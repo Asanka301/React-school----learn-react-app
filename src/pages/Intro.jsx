@@ -3,7 +3,7 @@ import Row from "../ui/Row";
 function Intro() {
   return (
     <Row type="vertical">
-      <h3>What is React.js?</h3>
+      <h2>What is React.js?</h2>
       <p>
         React.js, commonly referred to as React, is an open-source JavaScript
         library created by Facebook for building user interfaces (UIs) and

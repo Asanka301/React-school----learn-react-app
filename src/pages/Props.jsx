@@ -5,7 +5,7 @@ import Code from "./CodeContainer";
 function Props() {
   return (
     <Row type="vertical">
-      <Heading as="h3">What are React Props?</Heading>
+      <h2>What are React Props?</h2>
 
       <p>
         React props, short for properties, are a fundamental mechanism for

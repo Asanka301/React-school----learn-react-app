@@ -5,11 +5,7 @@ import Code from "./CodeContainer";
 function UseContext() {
   return (
     <Row type="vertical">
-      <Heading as="h1">
-        Exploring React.useContext: Simplifying State Management in React.js
-      </Heading>
-
-      <Heading as="h3">Introduction to React.useContext</Heading>
+      <h2>Introduction to React.useContext</h2>
 
       <p>
         React.useContext is a built-in Hook provided by React.js that simplifies

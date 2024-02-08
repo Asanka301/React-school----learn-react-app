@@ -5,7 +5,7 @@ import Code from "./CodeContainer";
 function UseRef() {
   return (
     <Row type="vertical">
-      <Heading as="h3">Introduction to React.useRef</Heading>
+      <h2>Introduction to React.useRef</h2>
 
       <p>
         React.useRef is a built-in Hook provided by React.js that allows

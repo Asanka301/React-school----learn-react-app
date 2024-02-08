@@ -4,7 +4,6 @@ import Code from "./CodeContainer";
 function CSS() {
   return (
     <Row type="vertical">
-      <h1>Styling React Components: Enhancing UI with CSS</h1>
       <h2>Introduction to React CSS</h2>
       <p>
         Styling plays a crucial role in creating visually appealing user

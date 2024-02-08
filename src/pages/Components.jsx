@@ -1,11 +1,10 @@
-import Heading from "../ui/Heading";
 import Row from "../ui/Row";
 import Code from "./CodeContainer";
 
 function Components() {
   return (
     <Row type="vertical">
-      <Heading as="h1">React Components</Heading>
+      <h2>React Components</h2>
 
       <p>
         In React.js, a component is a JavaScript class or function that returns

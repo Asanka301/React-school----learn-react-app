@@ -5,11 +5,7 @@ import Code from "./CodeContainer";
 function UseMemo() {
   return (
     <Row type="vertical">
-      <Heading as="h1">
-        Understanding React.useMemo: Memoizing Expensive Computations
-      </Heading>
-
-      <Heading as="h3">Introduction to React.useMemo</Heading>
+      <h2>Introduction to React.useMemo</h2>
 
       <p>
         React.useMemo is a built-in Hook provided by React.js that enables

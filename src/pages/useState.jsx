@@ -5,7 +5,7 @@ import Code from "./CodeContainer";
 function UseState() {
   return (
     <Row type="vertical">
-      <Heading as="h3">Introduction to React.useState</Heading>
+      <h2>Introduction to React.useState</h2>
 
       <p>
         React.useState is a built-in Hook provided by React.js that allows

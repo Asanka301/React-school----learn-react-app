@@ -5,12 +5,7 @@ import Code from "./CodeContainer";
 function UseEffect() {
   return (
     <Row type="vertical">
-      <Heading as="h1">
-        Understanding React.useEffect: Managing Side Effects in Functional
-        Components
-      </Heading>
-
-      <Heading as="h3">Introduction to React.useEffect</Heading>
+      <h2>Introduction to React.useEffect</h2>
 
       <p>
         React.useEffect is a built-in Hook provided by React.js that enables

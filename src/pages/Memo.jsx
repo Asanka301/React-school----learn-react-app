@@ -5,7 +5,7 @@ import Code from "./CodeContainer";
 function Memo() {
   return (
     <Row type="vertical">
-      <Heading as="h3">Introduction to React.memo</Heading>
+      <h2>Introduction to React.memo</h2>
 
       <p>
         React.memo is a higher-order component provided by React.js that aims to

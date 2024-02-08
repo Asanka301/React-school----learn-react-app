@@ -1,13 +1,6 @@
 import { NavLink } from "react-router-dom";
 import styled from "styled-components";
-import {
-  HiOutlineCalendarDays,
-  HiOutlineCog6Tooth,
-  HiOutlineHome,
-  HiOutlineHomeModern,
-  HiBookOpen,
-  HiOutlineUsers,
-} from "react-icons/hi2";
+import { HiBookOpen } from "react-icons/hi2";
 
 const H3 = styled.h3`
   text-align: center;

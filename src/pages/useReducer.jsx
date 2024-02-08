@@ -4,10 +4,7 @@ import Code from "./CodeContainer";
 function UseReducer() {
   return (
     <Row type="vertical">
-      <h1>
-        An Introduction to React.useReducer: Managing Complex State in React.js
-      </h1>
-      <h3>What is React.useReducer?</h3>
+      <h2>What is React.useReducer?</h2>
       <p>
         React.useReducer is a built-in Hook provided by React.js that allows
         functional components to manage complex state logic in a more organized

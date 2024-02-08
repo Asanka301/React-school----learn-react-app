@@ -5,7 +5,7 @@ import Code from "./CodeContainer";
 function Router() {
   return (
     <Row type="vertical">
-      <Heading as="h3">Introduction to React Router</Heading>
+      <h2>Introduction to React Router</h2>
 
       <p>
         React Router is a popular library for handling navigation in React.js

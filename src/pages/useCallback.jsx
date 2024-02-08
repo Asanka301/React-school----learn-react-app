@@ -5,11 +5,7 @@ import Code from "./CodeContainer";
 function UseCallback() {
   return (
     <Row type="vertical">
-      <Heading as="h1">
-        Understanding React.useCallback: Memoizing Callback Functions
-      </Heading>
-
-      <Heading as="h3">Introduction to React.useCallback</Heading>
+      <h2>Introduction to React.useCallback</h2>
 
       <p>
         React.useCallback is a built-in Hook provided by React.js that memoizes
