@@ -15,11 +15,11 @@ function HeaderMenu() {
 
   return (
     <StyledHeaderMenu>
-      <li>
+      {/* <li>
         <ButtonIcon onClick={() => navigate("/account")}>
           <HiOutlineUser />
         </ButtonIcon>
-      </li>
+      </li> */}
       <li>
         <DarkModeToggle />
       </li>
