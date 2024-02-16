@@ -77,7 +77,7 @@ export default MyComponent;
         CSS-in-JS libraries like Emotion and Styled System provide alternative
         approaches for styling React components. These libraries offer
         additional features such as theming, responsive design, and CSS prop
-        support, enhancing the styling capabilities of React applications.
+        support, enhancing the styling capabilities of React applications..
       </p>
       <h2>Conclusion</h2>
       <p>
