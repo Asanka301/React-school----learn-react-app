@@ -87,7 +87,7 @@ export default MyComponent;
         Components for dynamic styling, or exploring CSS-in-JS libraries for
         advanced styling techniques, React provides a variety of options for
         developers to enhance the appearance and functionality of their
-        applications.
+        applications..
       </p>
       <p>
         By understanding the different approaches to styling in React and
